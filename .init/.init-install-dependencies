@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/browser-pong-game-baa4995a/react_frontend"
+}
